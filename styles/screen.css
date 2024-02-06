@@ -47,11 +47,11 @@ h1 {
     display: inline-block;
     background-image: linear-gradient(
         90deg, 
-        #ffbe0b, /* Vivid yellow */
-        #fb5607, /* Strong orange */
-        #FF006E, /* Bright pink */
-        #8338EC, /* Deep purple */
-        #3A86FF  /* Bright blue */
+        #ffbe0b,
+        #fb5607, 
+        #FF006E, 
+        #8338EC, 
+        #3A86FF  
     );
     -webkit-background-clip: text;
     background-clip: text;
@@ -89,7 +89,7 @@ p {
 }
 
 a {
-    color: #ff006e; /* Bright blue for links */
+    color: #ff006e; 
     text-decoration: none;
     transition: color 0.3s ease;
 }
