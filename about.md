@@ -3,7 +3,7 @@ layout: layout.liquid
 title: About
 ---
 
-# Explorer's **Blog**
+# Explorer's Blog
 
 ### Hey there! So, you've stumbled onto my little corner of the internet, huh? Well, welcome aboard the *Explorer's Blog*—a place where I kinda, sorta share tales of distant worlds, stars that twinkle with secrets, and all the cosmic curiosities that tickle my fancy.
 
